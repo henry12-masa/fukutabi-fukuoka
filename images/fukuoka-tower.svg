@@ -1,0 +1,21 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="g10" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#f2a93c"/>
+<stop offset="100%" stop-color="#123a57"/>
+</linearGradient>
+</defs>
+<rect width="400" height="300" fill="url(#g10)"/>
+<!-- sea -->
+<rect x="0" y="250" width="400" height="50" fill="#4a90c4"/>
+<!-- triangular mirrored tower -->
+<polygon points="200,40 235,260 165,260" fill="#7fb3d9" opacity="0.9"/>
+<g stroke="#123a57" stroke-width="1.5" opacity="0.6">
+<line x1="185" y1="100" x2="215" y2="100"/>
+<line x1="180" y1="150" x2="220" y2="150"/>
+<line x1="175" y1="200" x2="225" y2="200"/>
+</g>
+<polygon points="200,40 210,60 190,60" fill="#e8dfc8"/>
+<!-- base -->
+<rect x="155" y="255" width="90" height="15" fill="#123a57"/>
+</svg>

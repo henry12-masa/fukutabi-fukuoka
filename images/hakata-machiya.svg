@@ -1,0 +1,26 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="g4" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#e8dfc8"/>
+<stop offset="100%" stop-color="#a82419"/>
+</linearGradient>
+</defs>
+<rect width="400" height="300" fill="url(#g4)"/>
+<!-- machiya building -->
+<polygon points="70,150 200,90 330,150" fill="#3a2a1f"/>
+<rect x="90" y="150" width="220" height="110" fill="#5c4433"/>
+<!-- lattice windows -->
+<g fill="#e8dfc8" opacity="0.9">
+<rect x="115" y="175" width="40" height="55"/>
+<rect x="245" y="175" width="40" height="55"/>
+</g>
+<g stroke="#3a2a1f" stroke-width="2">
+<line x1="125" y1="175" x2="125" y2="230"/>
+<line x1="135" y1="175" x2="135" y2="230"/>
+<line x1="145" y1="175" x2="145" y2="230"/>
+<line x1="255" y1="175" x2="255" y2="230"/>
+<line x1="265" y1="175" x2="265" y2="230"/>
+<line x1="275" y1="175" x2="275" y2="230"/>
+</g>
+<rect x="180" y="190" width="40" height="70" fill="#8a3320"/>
+</svg>

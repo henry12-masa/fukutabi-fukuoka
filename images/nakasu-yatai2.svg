@@ -1,0 +1,26 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="y1" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#3a2a1f"/>
+<stop offset="100%" stop-color="#e0392c"/>
+</linearGradient>
+</defs>
+<rect width="400" height="300" fill="url(#y1)"/>
+<!-- yatai counter -->
+<rect x="60" y="180" width="280" height="18" fill="#5c4433"/>
+<rect x="60" y="198" width="280" height="70" fill="#3a2a1f"/>
+<polygon points="40,180 360,180 340,120 60,120" fill="#e0392c"/>
+<!-- bowls on counter -->
+<ellipse cx="140" cy="178" rx="22" ry="8" fill="#f5f1e6"/>
+<ellipse cx="200" cy="178" rx="22" ry="8" fill="#f5f1e6"/>
+<ellipse cx="260" cy="178" rx="22" ry="8" fill="#f5f1e6"/>
+<!-- lantern -->
+<ellipse cx="200" cy="150" rx="16" ry="22" fill="#f2a93c" stroke="#a82419" stroke-width="2"/>
+<line x1="200" y1="128" x2="200" y2="118" stroke="#3a2a1f" stroke-width="2"/>
+<!-- stools -->
+<g fill="#8a3320">
+<rect x="110" y="240" width="10" height="30"/>
+<rect x="195" y="240" width="10" height="30"/>
+<rect x="280" y="240" width="10" height="30"/>
+</g>
+</svg>

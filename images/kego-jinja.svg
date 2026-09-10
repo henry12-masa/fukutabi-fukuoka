@@ -1,0 +1,24 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="g6" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#e0392c"/>
+<stop offset="100%" stop-color="#123a57"/>
+</linearGradient>
+</defs>
+<rect width="400" height="300" fill="url(#g6)"/>
+<!-- city buildings backdrop -->
+<g fill="#4a90c4" opacity="0.55">
+<rect x="20" y="60" width="50" height="200"/>
+<rect x="330" y="40" width="55" height="220"/>
+<rect x="300" y="90" width="35" height="170"/>
+</g>
+<!-- small shrine + torii -->
+<g fill="#f2a93c" stroke="#a82419" stroke-width="3">
+<rect x="150" y="150" width="14" height="100"/>
+<rect x="236" y="150" width="14" height="100"/>
+<rect x="140" y="140" width="120" height="14"/>
+<rect x="148" y="165" width="104" height="10"/>
+</g>
+<polygon points="170,250 230,250 245,215 155,215" fill="#3a2a1f"/>
+<rect x="180" y="250" width="40" height="30" fill="#8a3320"/>
+</svg>

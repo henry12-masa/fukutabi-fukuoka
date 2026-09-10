@@ -1,0 +1,30 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="g3" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#3a2a1f"/>
+<stop offset="100%" stop-color="#1c1410"/>
+</linearGradient>
+</defs>
+<rect width="400" height="300" fill="url(#g3)"/>
+<!-- river reflection -->
+<rect x="0" y="230" width="400" height="70" fill="#123a57" opacity="0.6"/>
+<!-- yatai stalls -->
+<g>
+<rect x="40" y="150" width="90" height="80" fill="#5c4433"/>
+<polygon points="30,150 140,150 125,120 45,120" fill="#e0392c"/>
+<rect x="150" y="140" width="100" height="90" fill="#5c4433"/>
+<polygon points="140,140 260,140 243,105 157,105" fill="#f2a93c"/>
+<rect x="270" y="150" width="90" height="80" fill="#5c4433"/>
+<polygon points="260,150 370,150 355,120 275,120" fill="#e0392c"/>
+</g>
+<!-- lanterns -->
+<ellipse cx="85" cy="135" rx="10" ry="15" fill="#f2a93c"/>
+<ellipse cx="200" cy="122" rx="12" ry="18" fill="#e0392c"/>
+<ellipse cx="315" cy="135" rx="10" ry="15" fill="#f2a93c"/>
+<!-- reflections -->
+<g opacity="0.35">
+<ellipse cx="85" cy="255" rx="10" ry="15" fill="#f2a93c"/>
+<ellipse cx="200" cy="260" rx="12" ry="18" fill="#e0392c"/>
+<ellipse cx="315" cy="255" rx="10" ry="15" fill="#f2a93c"/>
+</g>
+</svg>

@@ -1,0 +1,22 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="g2" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#f2a93c"/>
+<stop offset="100%" stop-color="#9c6412"/>
+</linearGradient>
+</defs>
+<rect width="400" height="300" fill="url(#g2)"/>
+<!-- curved building facade -->
+<path d="M40 260 Q200 60 360 260 Z" fill="#e0392c" opacity="0.9"/>
+<path d="M80 260 Q200 110 320 260 Z" fill="#a82419"/>
+<g fill="#f5f1e6" opacity="0.8">
+<rect x="130" y="220" width="20" height="30"/>
+<rect x="165" y="200" width="20" height="50"/>
+<rect x="200" y="190" width="20" height="60"/>
+<rect x="235" y="200" width="20" height="50"/>
+<rect x="270" y="220" width="20" height="30"/>
+</g>
+<!-- canal water -->
+<rect x="0" y="255" width="400" height="45" fill="#4a90c4"/>
+<path d="M0 262 Q50 255 100 262 T200 262 T300 262 T400 262" stroke="#7fb3d9" stroke-width="4" fill="none" opacity="0.7"/>
+</svg>

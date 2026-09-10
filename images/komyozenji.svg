@@ -1,0 +1,25 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="g13" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#c7e0a8"/>
+<stop offset="100%" stop-color="#2f6d4f"/>
+</linearGradient>
+</defs>
+<rect width="400" height="300" fill="url(#g13)"/>
+<!-- raked sand garden -->
+<rect x="40" y="180" width="320" height="90" fill="#e8dfc8"/>
+<g stroke="#c9b98a" stroke-width="2" opacity="0.7">
+<path d="M40 195 Q200 188 360 195"/>
+<path d="M40 215 Q200 208 360 215"/>
+<path d="M40 235 Q200 228 360 235"/>
+<path d="M40 255 Q200 248 360 255"/>
+</g>
+<!-- rocks -->
+<ellipse cx="130" cy="205" rx="22" ry="14" fill="#5c584c"/>
+<ellipse cx="150" cy="200" rx="14" ry="10" fill="#726c5e"/>
+<ellipse cx="270" cy="215" rx="18" ry="12" fill="#5c584c"/>
+<!-- moss/trees behind wall -->
+<rect x="0" y="150" width="400" height="35" fill="#8a3320" opacity="0.8"/>
+<circle cx="60" cy="130" r="22" fill="#3a6b3a"/>
+<circle cx="340" cy="125" r="26" fill="#2f6d4f"/>
+</svg>

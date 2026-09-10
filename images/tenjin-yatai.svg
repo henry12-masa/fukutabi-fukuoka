@@ -1,0 +1,27 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="y2" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#f2a93c"/>
+<stop offset="100%" stop-color="#123a57"/>
+</linearGradient>
+</defs>
+<rect width="400" height="300" fill="url(#y2)"/>
+<rect x="60" y="180" width="280" height="18" fill="#5c4433"/>
+<rect x="60" y="198" width="280" height="70" fill="#3a2a1f"/>
+<polygon points="40,180 360,180 340,120 60,120" fill="#f2a93c"/>
+<!-- oden pot -->
+<ellipse cx="150" cy="176" rx="30" ry="10" fill="#8a3320"/>
+<circle cx="135" cy="172" r="6" fill="#e8dfc8"/>
+<circle cx="150" cy="172" r="6" fill="#f2a93c"/>
+<circle cx="165" cy="172" r="6" fill="#e0392c"/>
+<!-- bowls -->
+<ellipse cx="250" cy="178" rx="20" ry="7" fill="#f5f1e6"/>
+<!-- lantern -->
+<ellipse cx="200" cy="150" rx="16" ry="22" fill="#e0392c" stroke="#7a1a10" stroke-width="2"/>
+<line x1="200" y1="128" x2="200" y2="118" stroke="#3a2a1f" stroke-width="2"/>
+<g fill="#8a3320">
+<rect x="110" y="240" width="10" height="30"/>
+<rect x="195" y="240" width="10" height="30"/>
+<rect x="280" y="240" width="10" height="30"/>
+</g>
+</svg>

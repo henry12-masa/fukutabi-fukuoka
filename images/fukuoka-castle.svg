@@ -1,0 +1,26 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="g9" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#e8dfc8"/>
+<stop offset="100%" stop-color="#5c8a5c"/>
+</linearGradient>
+</defs>
+<rect width="400" height="300" fill="url(#g9)"/>
+<!-- stone wall -->
+<polygon points="60,260 340,260 300,170 100,170" fill="#8a8478"/>
+<g stroke="#5c584c" stroke-width="1.5" opacity="0.5">
+<line x1="110" y1="200" x2="290" y2="200"/>
+<line x1="120" y1="230" x2="280" y2="230"/>
+</g>
+<!-- tenshudai platform top -->
+<rect x="140" y="150" width="120" height="25" fill="#5c584c"/>
+<!-- cherry blossoms -->
+<g fill="#f2a9c4">
+<circle cx="70" cy="120" r="18"/>
+<circle cx="95" cy="105" r="14"/>
+<circle cx="330" cy="130" r="16"/>
+<circle cx="305" cy="110" r="12"/>
+</g>
+<rect x="80" y="130" width="6" height="40" fill="#5c4433"/>
+<rect x="315" y="135" width="6" height="35" fill="#5c4433"/>
+</svg>

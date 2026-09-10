@@ -1,0 +1,23 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="g8" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#4a90c4"/>
+<stop offset="100%" stop-color="#123a57"/>
+</linearGradient>
+</defs>
+<rect width="400" height="300" fill="url(#g8)"/>
+<!-- lake -->
+<ellipse cx="200" cy="210" rx="190" ry="80" fill="#7fb3d9"/>
+<ellipse cx="200" cy="215" rx="160" ry="60" fill="#a8cce0"/>
+<!-- small island -->
+<ellipse cx="150" cy="200" rx="30" ry="14" fill="#5c8a5c"/>
+<circle cx="150" cy="185" r="12" fill="#3a6b3a"/>
+<!-- bridge -->
+<path d="M100 210 Q200 180 300 210" fill="none" stroke="#e8dfc8" stroke-width="8"/>
+<!-- trees around -->
+<g fill="#2f6d4f">
+<circle cx="40" cy="230" r="16"/>
+<circle cx="360" cy="230" r="16"/>
+<circle cx="360" cy="190" r="12"/>
+</g>
+</svg>
